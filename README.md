@@ -1,2 +1,2 @@
-# general_template for generic projects
+# opencv Operations
 general template for any project
